@@ -185,12 +185,18 @@ By combining SQL analysis with Power BI visualization, the project supports data
 
 ## Project Information
 
---> **Project Name:** WattWatch – Smart City Energy Analytics
---> **Domain:** Urban Energy Analytics
---> **Analysis Type:** Data-Driven Business Case Study
---> **Visualization Tool:** Power BI
---> **Analysis Tool:** SQL
---> **Dataset:** SmartCityEnergy.csv
+**Project Name:** WattWatch – Smart City Energy Analytics
+
+**Domain:** Urban Energy Analytics
+
+**Analysis Type:** Data-Driven Business Case Study
+
+**Visualization Tool:** Power BI
+
+**Analysis Tool:** SQL
+
+**Dataset:** SmartCityEnergy.csv
+
 
 ### ⭐ If you find this project useful feel free to explore the dashboard and dataset.
 
