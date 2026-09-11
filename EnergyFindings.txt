@@ -1,0 +1,15 @@
+ENERGY FINDINGS
+
+1. Total energy consumption across the smart city is 268,324.66 kWh, showing significant overall electricity usage.
+
+2. North Zone is the highest energy-consuming zone with 54,925.53 kWh, making it an important area for energy monitoring and efficiency improvements.
+
+3. Residential consumers use the highest amount of energy at 100,309.94 kWh, followed by Commercial consumers at 90,629.38 kWh.
+
+4. The highest monthly energy consumption was recorded in September 2025 at 24,397.43 kWh, while the lowest was recorded in February 2025 at 19,746.95 kWh.
+
+5. The average peak energy usage is approximately 26.99 kWh, which can help monitor periods of high electricity demand.
+
+6. West Zone has the highest total outage duration of 18,612 minutes, indicating a need for improved power supply reliability in this zone.
+
+7. Out of 5,000 meter records, 492 meters were marked as Faulty, highlighting the need for regular meter maintenance and monitoring.
